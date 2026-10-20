@@ -1,0 +1,9 @@
+{
+  "name": "learning-planner",
+  "description": "A learning companion skill that helps plan, track, and review self-directed learning journeys in structured phases. Supports natural language interaction (English & Chinese) and generates Obsidian-compatible markdown files with checkbox task tracking, progress summaries, and phase archives. Triggers on phrases like \"plan my study\", \"学习计划\", \"what should I learn next\", \"阶段结束\", \"review my progress\".",
+  "author": {
+    "name": "Han Yi",
+    "email": ""
+  },
+  "homepage": "https://github.com/SPYfighting/learning-planner"
+}
